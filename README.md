@@ -1,0 +1,1 @@
+# Modeling-tailings-from-La-Ci-nega-Peru-using-geochemistry-geostatistics-machine-learning-and-copulas
